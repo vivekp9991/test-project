@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Full Stack Developer position (Requisition ID: R250005461) within the Corp Landing Team. With five years of experience, including over three years as a Full Stack Developer and AWS API Developer at BMO, I am eager to contribute my expertise in AWS serverless technologies to your innovative projects.
+
+At BMO, I developed scalable solutions for regulatory projects like Bill C-30 and MLC with the Retail Banking Service Team, using AWS Lambda, DynamoDB, S3, API Gateway, and AngularJS. I applied Test-Driven Development to build stable systems and collaborated in Agile teams to resolve UAT blockers, ensuring timely delivery.
+
+This role’s focus on technical specifications and microservices aligns with my experience in building secure APIs. My familiarity with BMO’s systems and culture, along with my willingness to relocate to Calgary, positions me to contribute effectively.
+
+I welcome the opportunity to discuss my fit for the team. Thank you for your consideration.
+
+Sincerely,
+Vivek Patel
+AWS Full Stack Developer

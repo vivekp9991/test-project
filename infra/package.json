@@ -1,0 +1,39 @@
+{
+  "name": "infra",
+  "version": "0.1.0",
+  "bin": {
+    "infra": "bin/infra.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "jest",
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "@types/node": "10.17.27",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.2.0",
+    "ts-node": "^9.0.0",
+    "typescript": "~3.9.7"
+  },
+  "dependencies": {
+    "@bmo-cdk/apigateway": "^6.0.0",
+    "@bmo-cdk/cloudwatch": "^6.0.0",
+    "@bmo-cdk/codedeploy": "^6.0.0",
+    "@bmo-cdk/common": "^6.0.0",
+    "@bmo-cdk/dynamodb": "^6.0.0",
+    "@bmo-cdk/event-rule": "^6.0.0",
+    "@bmo-cdk/iam": "^6.0.0",
+    "@bmo-cdk/kms": "^6.0.0",
+    "@bmo-cdk/lambdafunction": "^6.0.0",
+    "@bmo-cdk/secretsmanager": "^6.0.0",
+    "@bmo-cdk/ssm-parameter": "^6.0.0",
+    "@bmo-cdk/stepfunctions": "^6.0.0",
+    "@opentelemetry/api": "1.1.0",
+    "constructs": "^10.0.0",
+    "moment": "^2.30.1",
+    "source-map-support": "^0.5.16"
+  }
+}
